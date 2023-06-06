@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: blue;
+	height: 300px;
+	padding: 50px;
+}
+
+.navbar{
+    color: white;
+}
+
+.contacts{
+    background-color: white;
+    color: blue;
+}
+
+nav li{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.contacts{
+    border-radius: 12px;
+}
+
+.main-photo{
+    width: 70%;
+    height: 600px;
+}
+
+.title,
+p{
+    font-family: "BPG Classic Medium", sans-serif;
+}
+
+.middle-section{
+    display: flex;
+    padding-left: 200px;
+}
+
+section{
+    text-align: center;
+    position: absolute;
+    top: 200px;
+    left: 10px;
+}
+
+.bottom-section{
+    width: 70%;
+    text-align:start;
+    padding-left: 200px;
+}
+
+.bottom-section p{
+    margin-bottom: 15px;
+    display: block;
+}
+
+.button-info{
+    background-color: blue;
+    color: white;
+    width: 350px;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 10px;
+}
+
+footer{
+    margin-top: 1300px;
+    background-color: blue;
+    color:white;
+    height: 300px;
+    padding-left: 20px;
+}
+
+h6{
+    padding-top: 10px;
+    width: 400px;
+}
+
+.left-foot{
+    margin-bottom: 30px;
+    padding-top: 10px;
+}
+
+
+
